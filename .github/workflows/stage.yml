@@ -34,9 +34,10 @@ jobs:
         src_branch: stage
 
     - name: Check out other private repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         repository: Aspose/aspose-repository-hugo
+        path: aspose-repository-hugo
         token: ${{ secrets.REPO_TOKEN }}
         ref: stage
         submodules: true  # Fetch Hugo themes
