@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CopyChangesToMainRepo
+name: CI-Stage
 
 # Controls when the action will run.
 on:
@@ -21,8 +21,19 @@ jobs:
     runs-on: ubuntu-latest
 
     # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:  
-
+    steps:
+    
+    - name: Copycat
+      uses: andstor/copycat-action@v3
+      with:
+        personal_token: ${{ secrets.REPO_TOKEN }}
+        src_path: /.
+        dst_path: /content/
+        dst_owner: aspose
+        dst_repo_name: aspose-repository-hugo
+        dst_branch: stage
+        src_branch: stage
+    
     - name: Check out other private repo
       uses: actions/checkout@v3
       with:
