@@ -41,7 +41,7 @@ jobs:
 
 # Also specifies the theme we want to use
     - name: Build
-      run: hugo --config="config-stage.toml" -b "https://repository-stage.aspose.com/" --cleanDestinationDir --minify
+      run: hugo --config="/home/runner/work/aspose-repository/aspose-repository/aspose-repository-hugo/config-stage.toml" -b "https://repository-stage.aspose.com/" --cleanDestinationDir --minify
 
     - name: Deploy total to S3
       run: hugo deploy --config "./config-stage.toml"  --target "Home" --maxDeletes=-1 --verbose
