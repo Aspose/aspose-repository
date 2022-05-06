@@ -28,9 +28,7 @@ keywords:
 weight: 14	#rem
 dataFolder: aspose_pub
 packages_refs:
----
 - "20-8"
-
 ---
 
 # Process PUB files via Java API
