@@ -1,5 +1,5 @@
 ---
-title: Process & Convert Images via Java Library | Aspose.Imaging
+title: Aspose.Imaging | Process & Convert Images via Java Library
 linktitle: Aspose.Imaging
 description: Java class library for image processing, manipulation, & conversion. Supports masking, filters, deskew, matrix transformation, shapes, dithering, and vectors.
 layout: packages

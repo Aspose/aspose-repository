@@ -1,5 +1,5 @@
 ---
-title: Java Class Library to Process 3D Images, Models | Aspose.3D
+title: Aspose.3D | Java Class Library to Process 3D Images, Models
 linktitle: Aspose.3D
 description: Java library to create, read, convert & save 3D formats (e.g. 3DS, 3MF, DAE, DFX, gITF, U3D, etc.). Supports geometries, graphs, skeletons, & morph deformers.
 layout: packages

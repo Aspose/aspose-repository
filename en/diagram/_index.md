@@ -1,5 +1,5 @@
 ---
-title: Java Library to Create, Export Visio Docs | Aspose.Diagram
+title: Aspose.Diagram | Java Library to Create, Export Visio Docs
 linktitle: Aspose.Diagram
 description: Java class library to read, write, export, & process Visio diagrams. Supports Visio objects like document, page, master (stencils), shape, stylesheet & connect.
 layout: packages

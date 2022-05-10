@@ -1,5 +1,5 @@
 ---
-title: Java Class Library to Render PSD & PSB Formats | Aspose.PSD
+title: Aspose.PSD | Java Class Library to Render PSD & PSB Formats
 linktitle: Aspose.PSD
 description: Java class library to enable your Apps to create, modify & convert Photoshop PSD & PSB formats. Supports image compression, dithering, rendering, & scaling etc.
 layout: packages

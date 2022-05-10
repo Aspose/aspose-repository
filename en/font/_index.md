@@ -1,5 +1,5 @@
 ---
-title: Java Font Processing API | TT, CFF, OT, Type1 | Aspose.Font
+title: Aspose.Font | Java Font Processing API | TT, CFF, OT, Type1
 linktitle: Aspose.Font
 description: Java class library for font (TTF, TTC, OpenType, CFF, Type1, etc.) rendering, processing, and conversion. Supports compact font, Latin font, symbols, & glyphs.
 layout: packages

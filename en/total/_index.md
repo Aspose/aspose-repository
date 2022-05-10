@@ -1,5 +1,5 @@
 ---
-title: Java Class Libraries to Process File Formats | Aspose.Total
+title: Aspose.Total | Java Class Libraries to Process File Formats
 linktitle: Aspose.Total
 description: Java High Code APIs to enable your Apps to work with file formats of Microsoft Word, Excel, PowerPoint, Outlook, OneNote, 3D, CAD, PDF, GIS, Email, HTML, etc.
 layout: packages
@@ -51,6 +51,7 @@ packages_refs:
 - "22-1"
 - "22-2"
 - "22-3"
+- "22-4"
 ---
 
 # Java Classes for Document Format Manipulation

@@ -1,5 +1,5 @@
 ---
-title: Java Library to Typeset & Convert TeX Files | Aspose.TeX
+title: Aspose.TeX | Java Library to Typeset & Convert TeX Files
 linktitle: Aspose.TeX
 description: Java class library to add typesetting feature within your App. Convert TeX & LaTeX to PDF, XPS, SVG etc. Supports font-subsetting, ligature, rasterization, etc.
 layout: packages
