@@ -1,5 +1,5 @@
 ---
-title: Java Class Library for Digital Marks Extraction | Aspose.OMR
+title: Aspose.OMR | Java Class Library for Digital Marks Extraction
 linktitle: Aspose.OMR
 description: Java class library for optical marks recognition (OMR). Recognize & extract marks from digitized or scanned images, photos, surveys, exams, & questionnaires.
 layout: packages

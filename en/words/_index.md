@@ -1,5 +1,5 @@
 ---
-title: Java Library to Process Document Formats | Aspose.Words
+title: Aspose.Words | Java Library to Process Document Formats
 linktitle: Aspose.Words
 description: Java library to create, edit, convert, & view Word & OpenOffice documents. Work with text, images, forms, tables, custom XML, SmartArt, OLE, VBA and much more.
 layout: packages

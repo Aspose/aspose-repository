@@ -1,5 +1,5 @@
 ---
-title: Java Library to Ceate & Manage Project Tasks | Aspose.Tasks
+title: Aspose.Tasks | Java Library to Ceate & Manage Project Tasks
 linktitle: Aspose.Tasks
 description: Java class library to generate, edit, render, & convert the Project files. Supports formulas, calendars, tasks, resources, reporting, and project risk analysis.
 layout: packages
@@ -87,6 +87,7 @@ packages_refs:
 - "22-1"
 - "22-2"
 - "22-3"
+- "22-4"
 - "9-1-0"
 - "9-2-0"
 - "9-3-0"

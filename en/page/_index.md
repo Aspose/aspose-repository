@@ -1,5 +1,5 @@
 ---
-title: Java Class Library for PostScript Processing | Aspose.Page
+title: Aspose.Page | Java Class Library for PostScript Processing
 linktitle: Aspose.Page
 description: Java class library to read, create and convert XPS, PS & EPS formats. Supports glyph, image brush, vector, bezier, color brush, transparency, & opacity mask.
 layout: packages
@@ -102,6 +102,7 @@ packages_refs:
 - "21-7"
 - "21-8"
 - "22-2"
+- "22-4"
 ---
 
 # Java APIs for PS, EPS & XPS File Formats

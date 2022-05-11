@@ -1,5 +1,5 @@
 ---
-title: Image Character Recognition Java Class Library | Aspose.OCR
+title: Aspose.OCR | Image Character Recognition Java Class Library
 linktitle: Aspose.OCR
 description: Java class library to perform optical character recognition (OCR) on JPEG, PNG, GIF, BMP & TIFF images. Extract English, French, Spanish & Portuguese via OCR.
 layout: packages
@@ -76,6 +76,7 @@ packages_refs:
 - "22-1"
 - "22-2"
 - "22-3"
+- "22-4"
 - "3-2-0"
 - "3-3-0"
 - "3-4-0"

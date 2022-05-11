@@ -1,5 +1,5 @@
 ---
-title: Process 1D, 2D & Postal Barcodes via Java | Aspose.BarCode
+title: Aspose.BarCode | Process 1D, 2D & Postal Barcodes via Java
 linktitle: Aspose.BarCode
 description: Java class library to generate, recognize, & convert barcodes. Supports numeric, alpha-numeric, and 2D barcode symbologies. Customize barcodes in your Java App.
 layout: packages
@@ -201,6 +201,7 @@ packages_refs:
 - "22-1"
 - "22-2"
 - "22-3"
+- "22-4"
 - "7-5-0"
 - "7-6-0"
 - "7-7-0"

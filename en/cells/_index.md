@@ -1,5 +1,5 @@
 ---
-title: Excel Spreadsheet Processing Java Library | Aspose.Cells
+title: Aspose.Cells | Excel Spreadsheet Processing Java Library
 linktitle: Aspose.Cells
 description: Java library to process, manipulate, & convert Excel & OpenOffice spreadsheets. Supports formula(e), charts, validations, rendering, printing, & encryption.
 layout: packages

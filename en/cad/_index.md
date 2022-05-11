@@ -1,5 +1,5 @@
 ---
-title: Java Library to Process/Convert AutoCAD Formats | Aspose.CAD
+title: Aspose.CAD | Java Library to Process/Convert AutoCAD Formats
 linktitle: Aspose.CAD
 description: Java class library to render, edit, report & convert AutoCAD drawings within your Apps. Supports 3D solids, conic, sphere, torus, cylinder, box, & wedge, etc.
 layout: packages
@@ -96,6 +96,7 @@ packages_refs:
 - "21-8"
 - "21-9"
 - "22-1"
+- "22-2"
 ---
 
 # CAD File Conversion API for Java

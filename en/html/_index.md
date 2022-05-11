@@ -1,5 +1,5 @@
 ---
-title: Java Class Library to Manipulate HTML Files | Aspose.HTML
+title: Aspose.HTML | Java Class Library to Manipulate HTML Files
 linktitle: Aspose.HTML
 description: Java class library to write, edit, parse, read, translate and convert HTML, XHTML, MHTML, and EPUB formats. Also supports manipulating DOM via JavaScript.
 layout: packages
