@@ -122,7 +122,6 @@ packages_refs:
 - "22-2"
 - "22-3"
 - "22-4"
-- "22-5"
 - "5-9-0"
 - "6-0-0"
 - "6-1-0"
@@ -178,7 +177,7 @@ Aspose.Diagram for Java can also be used to [apply protection to the Microsoft V
 
 ## Get Started
 
-Aspose hosts all Java APIs at the [Aspose Repository](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-diagram). You can easily use Aspose.BarCode for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Diagram for Java from Aspose Repository](https://docs.aspose.com/diagram/java/installation/) documentation page.
+Aspose hosts all Java APIs at the [Aspose Repository](https://repository.aspose.com/diagram/). You can easily use Aspose.Diagram for Java API directly in your Maven projects with simple configurations. For the detailed instructions please visit [Installing Aspose.Diagram for Java from Aspose Repository](https://docs.aspose.com/diagram/java/installation/) documentation page.
 
 ## Auto-fit Visio Diagram using Java
 
